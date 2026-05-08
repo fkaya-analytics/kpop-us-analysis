@@ -27,3 +27,4 @@ This project explores why K-pop became highly successful in the United States.
    ```
 2. Open `notebooks/00-kpop-us-analysis.ipynb` for the first analysis workflow.
 3. Add datasets to `data/raw/` or `data/` as needed.
+# kpop-us-analysis
