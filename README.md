@@ -1,6 +1,17 @@
-# K-pop US Analysis
+# How Did BTS Transform the US Streaming Market?
 
-This project explores why K-pop became highly successful in the United States.
+This project analyzes BTS's impact on the US music streaming ecosystem using:
+
+- Spotify popularity
+- Billboard rankings
+- Streaming trends
+- Data visualization
+
+Tools:
+- Python
+- pandas
+- matplotlib
+- Jupyter Notebook
 
 ## Topics
 
